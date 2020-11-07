@@ -32,3 +32,4 @@
 - [Day 29 (2020-10-16)（从零开始学异步）](./diary/2020-10-16/SUMMARY.md)
 - [Day 30 (2020-10-23)（how rust optimizing async/await（1））](./diary/2020-10-23.md)
 - [Day 31 (2020-10-24)（how rust optimizing async/await（2））](./diary/2020-10-24.md)
+- [Day 32 (2020-11-02)](./diary/2020-11-02.md)
