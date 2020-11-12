@@ -33,3 +33,4 @@
 - [Day 30 (2020-10-23)（how rust optimizing async/await（1））](./diary/2020-10-23.md)
 - [Day 31 (2020-10-24)（how rust optimizing async/await（2））](./diary/2020-10-24.md)
 - [Day 32 (2020-11-02)](./diary/2020-11-02.md)
+- [Day 33 (2020-11-12)（Twizzler OS）](./diary/2020-11-12.md)
