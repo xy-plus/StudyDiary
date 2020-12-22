@@ -35,3 +35,4 @@
 - [Day 32 (2020-11-02)](./diary/2020-11-02.md)
 - [Day 33 (2020-11-12)（Twizzler OS）](./diary/2020-11-12.md)
 - [Day 34 (2020-12-03)（Mnemosyne: Lightweight Persistent Memory）](./diary/2020-12-03.md)
+- [Day 35 (2020-12-22)（C++、Python 异步分析）](./diary/2020-12-22.md)
