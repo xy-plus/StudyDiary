@@ -37,6 +37,7 @@
 - [Day 34 (2020-12-03)（Mnemosyne: Lightweight Persistent Memory）](./diary/2020-12-03.md)
 - [Day 35 (2020-12-22)（C++、Python 异步分析）](./diary/2020-12-22.md)
 - [Day 36 (2020-12-25)（传统 IO 接口分析）](./diary/2020-12-25.md)
-- [Day 37 (2020-12-27（io_uring 笔记）)](./diary/2020-12-27.md)
+- [Day 37 (2020-12-27（没用的 io_uring 笔记）)](./diary/2020-12-27.md)
 - [Day 38 (2021-03-04)](./diary/2021-03-04.md)
 - [Day 39 (2021-10-05)（Persistent State Machines for Recoverable In-memory Storage Systems with NVRam）](./diary/2021-10-05.md)
+- [Day 40 (2021-10-14)（io uring 笔记）](./diary/2021-10-14.md)
